@@ -1,0 +1,7 @@
+
+*.meta
+/CardMatchingGame/Assets/TextMesh Pro
+/CardMatchingGame/Library
+/CardMatchingGame/Logs
+/CardMatchingGame/ProjectSettings
+/CardMatchingGame/UserSettings
